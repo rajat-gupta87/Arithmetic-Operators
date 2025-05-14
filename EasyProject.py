@@ -1,12 +1,12 @@
 a = float(input("Enter the number: "))
 b = float(input("Enter the number: "))
 
-add = a + b 
-sub = a - b
-mul = a * b
-div = a / b
-mod = a % b
-exp = a ** b
+add = a + b  #Addition Operator
+sub = a - b  #Substraction Operator
+mul = a * b  #Multiplication Operator
+div = a / b  #Division Operator
+mod = a % b  #Modulus Operator
+exp = a ** b  #Exponenetial Operator
 
 print("Addition's result is: ", add)
 print("Substraction's result is: ", sub)
